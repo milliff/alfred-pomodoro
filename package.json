@@ -31,7 +31,7 @@
   "dependencies": {
     "@sindresorhus/do-not-disturb": "^0.2.0",
     "alfred-notifier": "^0.2.3",
-    "alfy": "^0.6.0",
+    "alfy": "^0.10.0",
     "node-ifttt-maker": "^1.0.1"
   },
   "devDependencies": {
